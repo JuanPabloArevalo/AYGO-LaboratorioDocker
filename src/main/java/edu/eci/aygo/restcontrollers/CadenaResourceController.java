@@ -1,6 +1,6 @@
 package edu.eci.aygo.restcontrollers;
 
-import edu.eci.aygo.model.game.entities.Cadena;
+import edu.eci.aygo.model.entities.Cadena;
 import edu.eci.aygo.persistence.PersistenceException;
 import edu.eci.aygo.services.Services;
 import java.util.logging.Level;
